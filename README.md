@@ -1,7 +1,14 @@
-### Hi there 👋
 
+
+
+안녕하세요 성진희입니다.</br>
+```🌱 꼼꼼한 개발자 </br>```
+```😄 빈 틈을 채워 나가는 개발자</br>```
+```⚡ 사람들이 필요로 하는 것이 무엇인지 고민하는 개발자</br>```
 <!--
 **sjinicd/sjinicd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
