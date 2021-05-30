@@ -7,7 +7,7 @@
  <p>⚡ 사람들이 필요로 하는 것이 무엇인지 고민하는 개발자</br>&nbsp;  </p>
 <!--
 **sjinicd/sjinicd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SUNGJINHEE&fontSize=50&animation=twinkling)
 
 
 Here are some ideas to get you started:
