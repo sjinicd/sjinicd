@@ -2,10 +2,10 @@
 
 </br>
 <b>안녕하세요 성진희입니다.</b></br>&nbsp;</br>
- <p>🌱  </br>&nbsp; </p>
+<!-- <p>🌱  </br>&nbsp; </p>
  <p>😄 </br>&nbsp;  </p>
  <p>⚡ </br>&nbsp;  </p>
-<!--
+
 **sjinicd/sjinicd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
